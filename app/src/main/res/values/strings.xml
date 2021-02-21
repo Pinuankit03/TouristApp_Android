@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="welcome_msg">Welcome to Edmonton</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="passowrd">Password</string>
+    <string name="save_password">Remember Password</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

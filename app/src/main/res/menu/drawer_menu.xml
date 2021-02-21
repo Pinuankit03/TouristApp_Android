@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_tour"
+            android:title="Tour Places" />
+
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@mipmap/ic_favselect"
+            android:title="WishList" />
+
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@mipmap/ic_map"
+            android:title="Map" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@mipmap/ic_logout"
+            android:title="Logout" />
+
+    </group>
+
+
+</menu>
