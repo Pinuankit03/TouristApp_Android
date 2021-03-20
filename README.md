@@ -13,3 +13,5 @@ o When a user selects an attraction from the list, display a screen that shows m
 On this page you must show the name, address, phone no, website, more photos , description and pricing. o Ratings - Users should be able to leave a star rating for the tourist attraction. HINT: Use a “Rating Bar” view o Clicking on the phone number will automatically open the phone dialer so the user can attempt to call said place. o Clicking on the website would automatically open a web view showing the attraction web page.
 
 General UI Features o navigation drawer must contain the following:  Logout - Clicking this link should logout the user and redirect them back to the Login screen.  Tourist Attraction List - This should navigate the user to the Tourist Navigation List  Map - For this screen, load a web view that displays a bing.com map that is centered of your choice.
+
+![Group 1](https://user-images.githubusercontent.com/70823359/111852640-1e7c7900-88ee-11eb-876d-16784198aefd.png)
